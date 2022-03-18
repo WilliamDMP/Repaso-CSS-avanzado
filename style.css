@@ -1,3 +1,7 @@
 #prueba1 {
+    width: 50%;
     background-image: url(descarga.jpg);
+    background-size: contain;
+    height: 100%;
+    background-repeat: no-repeat;
 }
