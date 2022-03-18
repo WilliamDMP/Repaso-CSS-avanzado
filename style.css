@@ -1,7 +1,11 @@
 #prueba1 {
-    width: 50%;
+    width: 400px;
     background-image: url(descarga.jpg);
+    background-position: center;
     background-size: contain;
-    height: 100%;
+    height: 400px;
     background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-color: rgba(0,0,0,0.1);
+    margin: auto;
 }
